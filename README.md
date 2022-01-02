@@ -1,3 +1,3 @@
 # trading
-This repository contains my training on learning python for trading 
-Some examples and solved problems
+<p>This repository contains my training on learning python for trading<p>
+<p>Some examples and solved problems<p>
